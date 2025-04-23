@@ -34,7 +34,7 @@ metadata:
   namespace: flux
 spec:
   interval: 1m
-  url: https://github.com/YOUR_GITHUB_USER/flux-demo
+  url: https://github.com/CarlosRamirezSWO/flux-demo
   branch: main
   ref:
     branch: main
